@@ -2,6 +2,9 @@
  
  <hr>
  
+ <img align="right" height="250" width="375" alt="" src="https://octodex.github.com/images/NUX_Octodex.gif" />
+
+ 
 - 👀 I’m interested in Web Design and Programming
 - 🌱 I’m currently learning C++, HTML5&CSS3
 - ❓ Fun Fact: I'm Bulgarian, but I was originally born in Spain 🇪🇸
@@ -32,24 +35,24 @@
 
 <details>
   <summary><b>🐍 Contribution Graph</b></summary>
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--D-e-SdGc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif" alt="snake gif">
+ <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--D-e-SdGc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif" alt="snake gif">
 </details>
 
 <details>
-  <summary><b⚡ Repositories</b></summary>
+  <summary><b>⚡ My Projects</b></summary>
 
 [![Project AQUA](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=math-games-2020)](https://github.com)
-[![Fire department 2021](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=fire-department-2021)](https://github.com)
 </details>
 
 <details>
+ 
   <summary><b>📛 Badges</b></summary>
-
-<code><a href ="http://www.credly.com/badges/41931c0f-5be8-4e13-b3fa-82f0defd1957"><img align="left" alt="Excel" width="200px" src="https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" ></a></code>
   
-  <code><a href ="https://www.credly.com/earner/earned/badge/b25fd806-cdc5-4296-a6ff-3e651e00ec07"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
+  <code><a href ="https://www.credly.com/badges/6d6c0458-3eaf-48db-9607-348a72059760"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
 </details>  
 
-<br>
-  <hr>
 <div align="center">
+
+ <hr>
+ 
+ ### Never accept the world as it appears to be, dare to see it for what it could be.
