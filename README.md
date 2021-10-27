@@ -38,7 +38,8 @@
 <details>
  
   <summary><b>🐍 Contribution Graph</b></summary>
- ![snake gif](https://github.com/MIZlatev20/MIZlatev20/blob/output/github-contribution-grid-snake.gif)
+ 
+ <img src="https://github.com/MIZlatev20/MIZlatev20/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
 
 </details>
 
