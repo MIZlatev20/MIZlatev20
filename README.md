@@ -48,6 +48,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmdyakov18&repo=AQUA-TEAMNEPTUN)](https://github.com/pmdyakov18/AQUA-TEAMNEPTUN)
 
+ </details>
+ 
 <details style = "display: inline;">
  
   <summary><b>📛 Badges</b></summary>
