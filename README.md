@@ -54,14 +54,20 @@
 <details style = "display: inline;">
  
   <summary><b>📛 Badges</b></summary>
-
+ 
+<div>
+ 
 <a href ="https://www.credly.com/badges/6d6c0458-3eaf-48db-9607-348a72059760"><img align="left" alt="Word" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a>
  
  <a href ="https://www.credly.com/earner/earned/badge/69165b2d-c0cd-4ffa-943f-db9fb964328b"><img align="left" alt="HTML&CSS" width="200px" src="https://images.credly.com/size/340x340/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a>
+ 
+ </div>
+ 
 </details> 
 
-<div align="center">
+<hr>
 
- <hr>
+<div align="center">
  
  ### "Never accept the world as it appears to be, dare to see it for what it could be." - Dr. Harold Winston
+</div>
