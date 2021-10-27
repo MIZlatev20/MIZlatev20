@@ -2,11 +2,10 @@
  
  <hr>
  
- <img align="right" height="250" width="375" alt="" src="https://octodex.github.com/images/NUX_Octodex.gif" />
-
+ <img align="right" height="350" width="350" alt="" src="https://octodex.github.com/images/hula_loop_octodex03.gif"/>
  
 - 👀 I’m interested in Web Design and Programming
-- 🌱 I’m currently learning C++, HTML5&CSS3
+- 📚 I’m currently learning C++, HTML5&CSS3
 - ❓ Fun Fact: I'm Bulgarian, but I was originally born in Spain 🇪🇸
 - 🧠 I'm looking for creative and open-minded people who want to change the world
 - 📫 How to reach me - email: mizlatev20@codingburgas.bg
@@ -27,6 +26,7 @@
 ### My Projects:
 
 <details>	
+ 
   <summary><b>📊 Github Stats</b></summary>
 
 ![Grade](https://github-readme-stats.vercel.app/api?username=MIZlatev20&show_icons=true&theme=radical&count_private=true)
@@ -42,17 +42,18 @@
   <summary><b>⚡ My Projects</b></summary>
 
 [![Project AQUA](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=math-games-2020)](https://github.com)
-</details>
+</details> 
 
-<details>
- 
+<details style = "display: inline;">
   <summary><b>📛 Badges</b></summary>
-  
-  <code><a href ="https://www.credly.com/badges/6d6c0458-3eaf-48db-9607-348a72059760"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
-</details>  
+
+<a href ="https://www.credly.com/badges/6d6c0458-3eaf-48db-9607-348a72059760"><img align="left" alt="Word" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a>
+ 
+ <a href ="https://www.credly.com/earner/earned/badge/69165b2d-c0cd-4ffa-943f-db9fb964328b"><img align="left" alt="HTML&CSS" width="200px" src="https://images.credly.com/size/340x340/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a>
+</details> 
 
 <div align="center">
 
  <hr>
  
- ### Never accept the world as it appears to be, dare to see it for what it could be.
+ ### "Never accept the world as it appears to be, dare to see it for what it could be." - Dr. Harold Winston
