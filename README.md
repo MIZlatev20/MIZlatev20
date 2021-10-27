@@ -33,17 +33,17 @@
 
 ![Grade](https://github-readme-stats.vercel.app/api?username=MIZlatev20&show_icons=true&theme=radical&count_private=true)
 
+ </details>
+ 
 <details>
+ 
   <summary><b>🐍 Contribution Graph</b></summary>
-
  ![snake gif](https://github.com/MIZlatev20/MIZlatev20/blob/output/github-contribution-grid-snake.gif)
-
-    
-   
 
 </details>
 
 <details>
+ 
   <summary><b>⚡ Projects</b></summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmdyakov18&repo=AQUA-TEAMNEPTUN)](https://github.com/pmdyakov18/AQUA-TEAMNEPTUN)
