@@ -4,6 +4,8 @@
  
  <img align="right" height="350" width="350" alt="" src="https://octodex.github.com/images/hula_loop_octodex03.gif"/>
  
+ ### A bit about me:
+ 
 - 👀 I’m interested in Web Design and Programming
 - 📚 I’m currently learning C++, HTML5&CSS3
 - ❓ Fun Fact: I'm Bulgarian, but I was originally born in Spain 🇪🇸
@@ -30,21 +32,24 @@
   <summary><b>📊 Github Stats</b></summary>
 
 ![Grade](https://github-readme-stats.vercel.app/api?username=MIZlatev20&show_icons=true&theme=radical&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MIZlatev20&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
-</details>
 
 <details>
   <summary><b>🐍 Contribution Graph</b></summary>
+
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--D-e-SdGc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif" alt="snake gif">
+
+    
+   
+
 </details>
 
 <details>
-  <summary><b>⚡ My Projects</b></summary>
+  <summary><b>⚡ Projects</b></summary>
 
-[![Project AQUA](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=math-games-2020)](https://github.com)
-</details> 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pmdyakov18&repo=AQUA-TEAMNEPTUN)](https://github.com/pmdyakov18/AQUA-TEAMNEPTUN)
 
 <details style = "display: inline;">
+ 
   <summary><b>📛 Badges</b></summary>
 
 <a href ="https://www.credly.com/badges/6d6c0458-3eaf-48db-9607-348a72059760"><img align="left" alt="Word" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a>
