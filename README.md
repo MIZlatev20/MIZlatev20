@@ -6,8 +6,8 @@
  
  ### A bit about me:
  
-- 👀 I’m interested in Web Design and Programming
-- 📚 I’m currently learning C++, HTML5&CSS3 and JS
+- 👀 I’m interested in Web Design and Digital ARt
+- 📚 I’m currently learning C++ and C#
 - ❓ Fun Fact: I'm Bulgarian, but I was originally born in Spain 🇪🇸
 - 🧠 I'm looking for creative and open-minded people who want to change the world
 - 📫 How to reach me - email: MIZlatev20@codingburgas.bg
