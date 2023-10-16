@@ -6,7 +6,7 @@
  
  ### A bit about me:
  
-- 👀 I’m interested in Web Design and Digital ARt
+- 👀 I’m interested in Web Design and Digital Art
 - 📚 I’m currently learning C++ and C#
 - ❓ Fun Fact: I'm Bulgarian, but I was originally born in Spain 🇪🇸
 - 🧠 I'm looking for creative and open-minded people who want to change the world
