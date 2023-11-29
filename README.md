@@ -2,8 +2,8 @@
  
  <hr>
  
- [comment]: <> (<img align="right" height="350" width="350" alt="" src="https://octodex.github.com/images/hula_loop_octodex03.gif"/>)
- <img align="right" height="350" width="350" alt="men kissing" src="https://media.tenor.com/iZQmLoeFL50AAAAC/gay-man-to-man.gif">
+  <> (<img align="right" height="350" width="350" alt="" src="https://octodex.github.com/images/hula_loop_octodex03.gif"/>)
+
  
  ### A bit about me:
  
